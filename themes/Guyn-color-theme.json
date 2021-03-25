@@ -114,8 +114,8 @@
 
     "selection.background": "#1C011B", // DarkDark
 
-    "sideBar.background": "#051425", // NightblueDark
-    "sideBar.border": "#051425", // NightblueDark
+    "sideBar.background": "#020e1b", // NightblueDark- Darkened
+    "sideBar.border": "#020e1b", // NightblueDark
     "sideBarSectionHeader.background": "#051425", // NightblueDark
     "sideBarSectionHeader.foreground": "#82DFFF", // CloudDark
 
