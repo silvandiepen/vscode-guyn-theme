@@ -2,27 +2,29 @@
   "name": "Guyn",
   "type": "dark",
   "colors": {
+    "icon.foreground": "#AAE9FF", // Cloud
 
-    "icon.foreground": "#518CD0", // BlueLight
+    "activityBar.background": "#051425", // NightBlue - Darkest
+    "activityBar.foreground": "#ffffff", // White
+    "activityBar.inactiveForeground": "#ffffff55", // White 55,
+    "activityBar.dropBorder": "#ff0000",
 
-    "activityBar.background": "#010b16", // NightBlue - Darkest
-    "activityBar.foreground": "#82DFFF", // CloudDark
-    "activityBar.inactiveForeground": "#518CD0", // BlueLight
 
     "activityBarBadge.background": "#82DFFF", // CloudDark
     "activityBarBadge.foreground": "#051425", // NightblueDark
 
-    "badge.background": "#82DFFF", // CloudDark
+    "badge.background": "#FFCD61", // YellowDark
     "badge.foreground": "#051425", // NightblueDark
 
     "breadcrumb.activeSelectionForeground": "#82DFFF", // CloudDark
     "breadcrumb.foreground": "#518CD0", // BlueLight
-    "breadcrumb.focusForeground": "#AAE9FF",// Cloud
+    "breadcrumb.focusForeground": "#ffffff",// White
     "breadcrumbPicker.background": "#051425", // NightblueDark
 
     "button.background": "#82DFFF", // CloudDark
     "button.foreground": "#051425", // NightblueDark
     "button.hoverBackground": "#AAE9FF", // Cloud
+
 
     "diffEditor.insertedTextBackground": "#09203a", // NightBlue
     "diffEditor.removedTextBackground": "#0b294a", // NightblueLight
@@ -46,12 +48,12 @@
     "editor.findMatchBackground": "#518CD0", // BlueLight
     "editor.findMatchHighlightBackground": "#0C4D99", // BlueDark
 
-    "editorLineNumber.activeForeground": "#518CD0", // BlueLight
-    "editorLineNumber.foreground": "#0C4D99", // BlueDark,
+    "editorLineNumber.activeForeground": "#fff", // White
+    "editorLineNumber.foreground": "#ffffff50", // White 50%
     "editorCursor.background": "#010b16", // NightBlue - Darkest
-    "editorCursor.foreground": "#82DFFF", // CloudDark
+    "editorCursor.foreground": "#ffffff", // White
 
-    "editor.selectionBackground": "#09203a", // NightBlue
+    "editor.selectionBackground":"#82DFFF20", // CloudDark,
     "editor.inactiveSelectionBackground": "#051425", // NightblueDark
     "editor.selectionHighlightBackground": "#09203a", // NightBlue
 
@@ -64,11 +66,11 @@
     "extensionButton.prominentBackground": "#CEF2FF", // CloudLight
     "extensionButton.prominentForeground": "#051425", // NightblueDark
     "focusBorder": "#09203a", // NightBlue
-    "foreground": "#518CD0", // BlueLight
+    "foreground": "#AAE9FF", // Cloud
 
     "gitDecoration.addedResourceForeground": "#62F689", // Turquoise
     "gitDecoration.deletedResourceForeground": "#EF194F", // Red
-    "gitDecoration.ignoredResourceForeground": "#0C4D99", // BlueDark
+    "gitDecoration.ignoredResourceForeground": "#ffffff30", // BlueDark
     "gitDecoration.modifiedResourceForeground": "#E2ACD0", // VioletDark
     "gitDecoration.untrackedResourceForeground": "#AAE9FF", // Cloud
 
@@ -77,10 +79,10 @@
     "list.hoverBackground": "#000000", // Black
     "list.hoverForeground": "#AAE9FF", // Cloud
     "list.focusBackground": "#010b16", // NightBlue - Darkest
-    "list.focusForeground": "#82DFFF", // CloudDark
+    "list.focusForeground": "#ffffff", // White
     "list.inactiveFocusBackground": "#010b16", // NightBlue - Darkest
-    "list.inactiveSelectionBackground": "#000000", // Black
-    "list.inactiveSelectionForeground": "#82DFFF", // CloudDark
+    "list.inactiveSelectionBackground": "#010b16", // Black
+    "list.inactiveSelectionForeground": "#ffffff", // White
 
     "list.highlightForeground":"#CEF2FF", // CloudLight
     "list.dropBackground": "#1C011B",// DarkDark
@@ -114,10 +116,10 @@
 
     "selection.background": "#010b16", // NightBlue - Darkest
 
-    "sideBar.background": "#020e1b", // NightblueDark- Darkened
-    "sideBar.border": "#020e1b", // NightblueDark
-    "sideBarSectionHeader.background": "#051425", // NightblueDark
-    "sideBarSectionHeader.foreground": "#82DFFF", // CloudDark
+    "sideBar.background": "#010b16", // NightblueDark - Darkened
+    "sideBar.border": "#010b16", // NightblueDark - Darkened
+    "sideBarSectionHeader.background": "#010b16", // NightblueDark - Darkened
+    "sideBarSectionHeader.foreground": "#ffffff", // White
 
     "statusBar.background": "#82DFFF", // CloudDark
     "statusBar.foreground": "#051425", // NightblueDark
@@ -128,7 +130,7 @@
     "tab.activeForeground": "#ffffff", // White
     "tab.border": "#051425", // NightblueDark
     "tab.inactiveBackground": "#09203a", // Nightblue
-    "tab.inactiveForeground": "#82DFFF",// CloudDark
+    "tab.inactiveForeground": "#ffffff90",// CloudDark
 
     "terminal.foreground": "#AAE9FF", // Cloud
     "terminal.ansiRed": "#BF1A43", // RedDark
@@ -137,9 +139,9 @@
 
     "textLink.foreground": "#82DFFF", // CloudDark
 
-    "titleBar.activeBackground": "#051425", // NightblueDark
+    "titleBar.activeBackground": "#010b16", // NightblueDark - Darkened
     "titleBar.inactiveBackground": "#051425", // NightblueDark
-    "titleBar.activeForeground": "#82DFFF", // CloudDark
+    "titleBar.activeForeground": "#CEF2FF", // CloudLight
 
     "tree.indentGuidesStroke": "#518CD0", // BlueLight
 
