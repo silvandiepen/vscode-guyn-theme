@@ -44,7 +44,7 @@
     "editorGroupHeader.tabsBackground": "#051425", // NightblueDark
 
     "editor.findMatchBackground": "#518CD0", // BlueLight
-    "editor.findMatchHighlightBackground": "#09203a", // NightBlue
+    "editor.findMatchHighlightBackground": "#0C4D99", // BlueDark
 
     "editorLineNumber.activeForeground": "#518CD0", // BlueLight
     "editorLineNumber.foreground": "#051425", // NightBlueDark,
@@ -59,7 +59,7 @@
     "editor.wordHighlightStrongBackground": "#09203a", // NightBlue
 
     "editorWidget.background": "#051425", // NightblueDark
-    "editorWidget.border": "#518CD0", // BlueLight
+    "editorWidget.border": "#AAE9FF", // Cloud
 
     "extensionButton.prominentBackground": "#CEF2FF", // CloudLight
     "extensionButton.prominentForeground": "#051425", // NightblueDark
@@ -69,7 +69,7 @@
     "gitDecoration.addedResourceForeground": "#62F689", // Turquoise
     "gitDecoration.deletedResourceForeground": "#EF194F", // Red
     "gitDecoration.ignoredResourceForeground": "#0C4D99", // BlueDark
-    "gitDecoration.modifiedResourceForeground": "#c12bdf", // PurpleLight
+    "gitDecoration.modifiedResourceForeground": "#E2ACD0", // VioletDark
     "gitDecoration.untrackedResourceForeground": "#0C4D99", // BlueDark
 
     "list.activeSelectionBackground": "#000000", // Black
@@ -127,7 +127,7 @@
     "tab.activeBorder": "#82DFFF", // CloudDark
     "tab.activeForeground": "#CEF2FF", // CloudLight
     "tab.border": "#051425", // NightblueDark
-    "tab.inactiveBackground": "#051425", // NightblueDark
+    "tab.inactiveBackground": "#09203a", // Nightblue
     "tab.inactiveForeground": "#518CD0d8",
 
     "terminal.foreground": "#AAE9FF", // Cloud
