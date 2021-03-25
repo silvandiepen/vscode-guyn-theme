@@ -5,7 +5,7 @@
 
     "icon.foreground": "#518CD0", // BlueLight
 
-    "activityBar.background": "#051425", // NightblueDark
+    "activityBar.background": "#1C011B", // DarkDark
     "activityBar.foreground": "#82DFFF", // CloudDark
     "activityBar.inactiveForeground": "#518CD0", // BlueLight
 
@@ -17,7 +17,7 @@
 
     "breadcrumb.activeSelectionForeground": "#82DFFF", // CloudDark
     "breadcrumb.foreground": "#518CD0", // BlueLight
-    "breadcrumb.focusForeground": "#2E71BE",// Blue
+    "breadcrumb.focusForeground": "#AAE9FF",// Cloud
     "breadcrumbPicker.background": "#051425", // NightblueDark
 
     "button.background": "#82DFFF", // CloudDark
@@ -47,7 +47,7 @@
     "editor.findMatchHighlightBackground": "#0C4D99", // BlueDark
 
     "editorLineNumber.activeForeground": "#518CD0", // BlueLight
-    "editorLineNumber.foreground": "#051425", // NightBlueDark,
+    "editorLineNumber.foreground": "#0b294a", // NightBlueLight,
     "editorCursor.background": "#1C011B", // DarkDark
     "editorCursor.foreground": "#82DFFF", // CloudDark
 
@@ -73,7 +73,7 @@
     "gitDecoration.untrackedResourceForeground": "#0C4D99", // BlueDark
 
     "list.activeSelectionBackground": "#000000", // Black
-    "list.activeSelectionForeground": "#82DFFF", // CloudDark
+    "list.activeSelectionForeground": "#AAE9FF", // Cloud
     "list.hoverBackground": "#000000", // Black
     "list.hoverForeground": "#AAE9FF", // Cloud
     "list.focusBackground": "#1C011B", // DarkDark
@@ -82,8 +82,8 @@
     "list.inactiveSelectionBackground": "#000000", // Black
     "list.inactiveSelectionForeground": "#82DFFF", // CloudDark
 
-    "list.highlightForeground":"#AAE9FF", // Cloud
-    "list.dropBackground": "#000000", // Black
+    "list.highlightForeground":"#CEF2FF", // CloudLight
+    "list.dropBackground": "#1C011B",// DarkDark
 
     "list.errorForeground": "#EF194F", // Red
     "list.warningForeground": "#FFCD61", // OrangeLight
