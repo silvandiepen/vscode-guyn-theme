@@ -131,9 +131,9 @@
     "tab.inactiveForeground": "#518CD0d8",
 
     "terminal.foreground": "#AAE9FF", // Cloud
-    "terminal.ansiRed": "#CB0C7A", // MagentaDark
-    "terminal.ansiBrightRed": "#CB0C7A", // MagentaDark
-    "terminal.ansiGreen": "#B8D3A5", // ArmyLight// ArmyLight
+    "terminal.ansiRed": "#BF1A43", // RedDark
+    "terminal.ansiBrightRed": "#EF194F", // Red
+    "terminal.ansiGreen": "#B8D3A5", // ArmyLight
 
     "textLink.foreground": "#82DFFF", // CloudDark
 
