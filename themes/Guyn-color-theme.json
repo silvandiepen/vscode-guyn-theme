@@ -124,11 +124,11 @@
     "statusBar.debuggingBackground": "#c12bdf", // PurpleLight
 
     "tab.activeBackground": "#051425", // NightblueDark
-    "tab.activeBorder": "#82DFFF", // CloudDark
-    "tab.activeForeground": "#CEF2FF", // CloudLight
+    "tab.activeBorder": "#FFC624", // YellowDark
+    "tab.activeForeground": "#ffffff", // White
     "tab.border": "#051425", // NightblueDark
     "tab.inactiveBackground": "#09203a", // Nightblue
-    "tab.inactiveForeground": "#518CD0d8",
+    "tab.inactiveForeground": "#82DFFF",// CloudDark
 
     "terminal.foreground": "#AAE9FF", // Cloud
     "terminal.ansiRed": "#BF1A43", // RedDark
