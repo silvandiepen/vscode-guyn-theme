@@ -70,10 +70,10 @@
     "gitDecoration.deletedResourceForeground": "#EF194F", // Red
     "gitDecoration.ignoredResourceForeground": "#0C4D99", // BlueDark
     "gitDecoration.modifiedResourceForeground": "#E2ACD0", // VioletDark
-    "gitDecoration.untrackedResourceForeground": "#0C4D99", // BlueDark
+    "gitDecoration.untrackedResourceForeground": "#AAE9FF", // Cloud
 
-    "list.activeSelectionBackground": "#000000", // Black
-    "list.activeSelectionForeground": "#AAE9FF", // Cloud
+    "list.activeSelectionBackground": "#010b16", // NightBlue - Darkest
+    "list.activeSelectionForeground": "#ffffff", // White
     "list.hoverBackground": "#000000", // Black
     "list.hoverForeground": "#AAE9FF", // Cloud
     "list.focusBackground": "#010b16", // NightBlue - Darkest
