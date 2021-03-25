@@ -3,7 +3,7 @@
     "displayName": "Guyn",
     "description": "Dark Guyn Theme",
     "icon": "images/icon.png",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "publisher": "silvandiepenmt",
     "engines": {
         "vscode": "^1.37.0"
