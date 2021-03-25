@@ -1,0 +1,37 @@
+{
+    "name": "vscode-guyn-theme",
+    "displayName": "Guyn",
+    "description": "Dark Guyn Theme",
+    "icon": "images/icon.png",
+    "version": "0.0.1",
+    "publisher": "silvandiepenmt",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Guyn",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Guyn-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "guyn",
+        "dark",
+        "theme",
+        "flat"
+    ],
+    "license": "MIT",
+    "maintainers": [
+        "Sil van Diepen <me@sil.mt>"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/silvandiepen/vscode-guyn-theme.git"
+    }
+}
